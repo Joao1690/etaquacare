@@ -117,7 +117,7 @@ Solicite seu orçamento
 
 <h2>Entre em Contato</h2>
 
-<p>📱 WhatsApp 1: (62) 99509-3831</p>
+<p>📱 WhatsApp 1: (62) 99409-3831</p>
 
 <p>📱 WhatsApp 2: (62) 99357-2960</p>
 
